@@ -1,0 +1,33 @@
+html {
+    background: rgba(200, 218, 236);
+}
+
+.container {
+    height: 500px;
+    width: 320px;
+    border-radius: 20px;
+    margin: 150px auto;
+    background: white;
+
+}
+
+img {
+    width: 290x;
+    height: 290px;
+    border-radius: 10px;
+    margin: 15px 15px 0 15px;
+}
+
+.text{
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    margin: 0 25px;
+}
+h1 {
+    font-size: 23px;
+    color: rgb(25, 39, 59);
+}
+p {
+    font-size: 16px;
+    color: rgba(165, 170, 177);
+}
